@@ -1,0 +1,64 @@
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\bin\Debug\Library.exe.config
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\bin\Debug\Library.exe
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\bin\Debug\Library.pdb
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\bin\Debug\ConnectionLibrary.dll
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\bin\Debug\ConnectionLibrary.pdb
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.ConnectionForm.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Form1.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.MainMenu.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.csproj.CopyComplete
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.exe
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.pdb
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Author.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.History.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Books.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Provider.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Employee.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Potencial_employee.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Role.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Avtoriz.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Contract_with_provider.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Work_contract.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Order.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Doc_on_buy_book.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.ReaderTicket.resources
+E:\Учеба\3 курс\2 семестр\КП\Library\Library\obj\Debug\Library.Move_book.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Author.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Avtoriz.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.ConnectionForm.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Contract_with_provider.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Doc_on_buy_book.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Employee.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.History.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Invoice.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.MainMenu.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Move_book.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Order.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Potencial_employee.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Provider.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.ReaderTicket.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Role.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Work_contract.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\Богдана\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Богдана\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\Богдана\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\Богдана\Desktop\Library\Library\bin\Debug\ConnectionLibrary.pdb
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Settings_doc.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.AvtorizUser.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.RegForm.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.PersonalReader.resources
+C:\Users\Богдана\Desktop\Library\Library\obj\Debug\Library.Catalog.resources
